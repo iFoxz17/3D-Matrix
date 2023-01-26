@@ -11,4 +11,4 @@ The most relevants design choices took in the implementation are contained in th
 The file <code>main.cpp</code> contains some tests to verify the correctness of the implementation.
 
 ## Documentation
-It is possible to generate HTML documentation for the class through the doxygen tool. To do so, just install doxygen, open the terminal in the project folder, and run the <code>doxygen</code> command. It will automatically search for the Doxyfile which is in the folder and create a new folder containing the newly generated documentation. To read it, just go into the folder and open index.html with your preferred browser.
+It is possible to generate HTML documentation for the class through the doxygen tool. To do so, just install doxygen, open the terminal in the project folder, and run the <code>doxygen</code> command. It will automatically search for the Doxyfile which is in the folder and create a new folder containing the newly generated documentation. To read it, just go into the folder and open <code>index.html</code> with your preferred browser.
