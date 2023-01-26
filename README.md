@@ -1,8 +1,11 @@
 # 3D-Matrix
 A template class representing a 3D matrix data structure for any type of data written in C++. 
 
-## Features
-Features requested in implementation are contained in the pdf file Project-Description. 
+## Functionalities
+Functionalities requested in implementation are contained in the pdf file Project-Description. 
+
+## Implementation
+The most relevants design choices took in the implementation are contained in the pdf file Design-Choices.
 
 ## Test
 The file main.cpp contains some tests to verify the correctness of the implementation.
